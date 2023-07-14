@@ -1,32 +1,7 @@
 {
   "projects": [
-    {
-      "name": "jhgg",
-      "budget": "45552",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "jhgg",
-      "budget": "45552",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
+  
+  
     {
       "name": "Ti Projects",
       "budget": "50000",
@@ -41,7 +16,7 @@
     {
       "category": {
         "id": "2",
-        "name": "Desenvolvimento"
+        "name": "Planejamento"
       },
       "name": "Mercadinho digital",
       "budget": "50000",
